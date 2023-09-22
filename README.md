@@ -3,9 +3,9 @@
 - 🔭 Analista de Dados/ BI
 - 📝 Formada em Banco de Dados/ Big Data & BI pela FIAP
 - 🌱 Estudando Inglês e aprimorando meus conhecimentos em Python
-- 💬 Podemos conversa sobre Power Bi, SQL, Python, PostgreSQL, Pentaho, Excel e SAP
+- 💬 Podemos conversa sobre Power Bi, SQL, Python, PostgreSQL, Pentaho, Excel, SAP além de contextos de négocio e o dia a dia no mundo dos dados.
 - 📫 Você pode me encontrar através do e-mail: caroline.andrade.ca@outlook.com
-- 📄 Meu perfil no linkedin é esse aqui https://www.linkedin.com/in/caroline-andrade-8768621a4
+- 📄 Meu perfil no linkedin é esse aqui: https://www.linkedin.com/in/caroline-andrade-8768621a4
 - 😄 Pronouns:ela/dela
 
 ## Skills
