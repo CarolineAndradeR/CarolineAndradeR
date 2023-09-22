@@ -1,7 +1,7 @@
 ### Olá! Eu Sou a Caroline
 
 - 🔭 Analista de Dados/ BI
-- 📝 Formada em Banco de Dados/ Big Data/ BI pela FIAP
+- 📝 Formada em Banco de Dados/ Big Data & BI pela FIAP
 - 🌱 Estudando Inglês e aprimorando meus conhecimentos em Python
 - 💬 Podemos conversa sobre Power Bi, SQL, Python, PostgreSQL, Pentaho, Excel e SAP
 - 📫 Você pode me encontrar através do e-mail: caroline.andrade.ca@outlook.com
